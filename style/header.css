@@ -9,6 +9,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 0;
 }
 
 .header__contacts {
@@ -94,7 +95,7 @@ header {
 @media (min-width: 768px) {
     header {
         min-height: 100px;
-        padding: 28px 0;
+        padding: 28px 40px;
     }
 
     .logo {
@@ -127,6 +128,7 @@ header {
         height: 100%;
         flex-direction: column;
         align-items: flex-end; 
+        padding: 0 20px;
     }
 
     .header__contacts {
@@ -159,10 +161,6 @@ header {
     }
 
     .header__contacts {
-        padding-left: 0;
-    }
-
-    .container {
         padding-left: 0;
     }
 }
