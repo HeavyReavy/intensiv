@@ -27,18 +27,23 @@
 .advantage__item_stek {
     background-image: url(../img/stack.svg);
 }
+
 .advantage__item_mockup {
     background-image: url(../img/mockup.svg);
 }
+
 .advantage__item_ink {
     background-image: url(../img/ink.svg);
 }
+
 .advantage__item_adaptiv {
     background-image: url(../img/adapt.svg);
 }
+
 .advantage__item_clear {
     background-image: url(../img/clear.svg);
 }
+
 .advantage__item_copy {
     background-image: url(../img/copy.svg);
 }
@@ -66,22 +71,23 @@
     .advantage__title {
         margin-bottom: 50px;
     }
-
-    .advantage__item_stek {
-
-    }
+    
     .advantage__item_mockup {
         order: 2;
     }
+
     .advantage__item_ink {
         order: 4;
     }
+
     .advantage__item_adaptiv {
         order: 1;
     }
+
     .advantage__item_clear {
         order: 3;
     }
+
     .advantage__item_copy {
         order: 5;
     }
