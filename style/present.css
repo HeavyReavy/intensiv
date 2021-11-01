@@ -40,6 +40,17 @@
     color: #FFFFFF;
     background-color: #E87C40;
     border-radius: 4px;
+    transition: 0.2s;
+}
+
+.present__order-btn:hover {
+    color: #ffffff;
+    background-color: #008822;
+}
+
+.present__order-btn:active {
+    background-color: #09e440;
+
 }
 
 @media (min-width: 480px) {
