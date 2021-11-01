@@ -108,6 +108,10 @@ legend {
     .container {
         padding: 0 40px;
     }
+
+    fieldset {
+        margin-bottom: 50px;
+    }
 }
 
 @media (min-width: 992px) {
